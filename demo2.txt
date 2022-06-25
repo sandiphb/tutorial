@@ -1,0 +1,3 @@
+Hello
+git init
+git status
